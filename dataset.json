@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon training - high-endurance athlete requiring 3000+ calories with carbohydrate loading for sustained energy",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan provides approximately 3000+ total calories across all meals",
+      "Carbohydrates comprise 55-65% of total calories to support endurance performance",
+      "Includes 4-5 eating occasions (breakfast, snacks, lunch, dinner, post-workout) spaced appropriately for sustained energy",
+      "All meals and quantities are realistic and practical for a single day"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and sustained energy"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Build muscle and increase strength for weightlifting competition in 8 weeks",
+      "restrictions": "Vegetarian (no meat, poultry, or fish)"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly one full day with 4-5 meals",
+      "Includes pre-workout and post-workout nutrition timed appropriately around training",
+      "Provides minimum 1.7g protein per kg bodyweight (144g+ total daily protein from vegetarian sources)",
+      "Balanced macronutrients supporting muscle gain with caloric intake appropriate for strength athlete"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) requiring balanced macros with high protein intake and specific pre/post-workout nutrition timing"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "78 kg",
+      "goal": "High-performance training for competitive swimming with energy optimization for morning and evening pool sessions",
+      "restrictions": "Severe nut allergy (including peanuts and tree nuts)"
+    },
+    "solution_criteria": [
+      "Meal plan covers 3 meals and 2-3 snacks suitable for a 78 kg swimmer with ~3000-3500 daily caloric needs",
+      "All meals and snacks are nut-free and safe for severe nut allergy",
+      "Includes portable, easily digestible options timing around training sessions (pre/post-workout nutrition)",
+      "Plan is presented in compact, concise format covering one complete day"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific athlete (swimmer) with dietary restrictions (nut allergy) requiring portable, easily digestible meals for training sessions"
+  }
+]
